@@ -364,14 +364,9 @@ Enjoy it below!
 ###  Guidelines
 - Follow the existing structure and formatting.
 - Ensure added resources are relevant to State Space Models in Machine Learning.
-- Verify that links work correctly.
+- Verify that links work correctly
 
 <span id="head27"></span>
 ##  Acknowledgement
-Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
+Thanks the template from [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
 
-
-
-<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/AAAI-24-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>
-
-<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/JBHI-23-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>

@@ -19,21 +19,22 @@ Enjoy it below!
   - [ Graph](#head10)
   - [Point Cloud](#head11)
   - [ Protein](#head12)
-  - [Time Series](#head13)
-  - [ Speech](#head14)
-  - [Recommendation ](#head15)
-  - [Reinforcement Learning](#head16)
-  - [ Survey](#head17)
-- [ Tutorials](#head18)
-  - [ Blogs](#head19)
-  - [ Videos](#head20)
-  - [ Books](#head21)
-  - [ Codes](#head22)
-  - [Other Awesome Mamba List](#head23)
-- [ Contributions](#head24)
-  - [Contribute in 3 Steps](#head25)
-  - [ Guidelines](#head26)
-- [ Acknowledgement](#head27)
+  - [ SNN](#head13)
+  - [Time Series](#head14)
+  - [ Speech](#head15)
+  - [Recommendation ](#head16)
+  - [Reinforcement Learning](#head17)
+  - [ Survey](#head18)
+- [ Tutorials](#head19)
+  - [ Blogs](#head20)
+  - [ Videos](#head21)
+  - [ Books](#head22)
+  - [ Codes](#head23)
+  - [Other Awesome Mamba List](#head24)
+- [ Contributions](#head25)
+  - [Contribute in 3 Steps](#head26)
+  - [ Guidelines](#head27)
+- [ Acknowledgement](#head28)
 
 <span id="head2"></span>
 ##  Papers
@@ -157,7 +158,6 @@ Enjoy it below!
 ###  Multi-Modal
 * VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20)
 * Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[paper](https://arxiv.org/abs/2403.14520)] [[code](https://sites.google.com/view/cobravlm)] (2024.03.21)
-* SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
 * Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
 * SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [[paper](https://arxiv.org/abs/2404.08027)] (2024.04.11)
 * MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[paper](https://arxiv.org/abs/2404.08406)] (2024.04.12)
@@ -267,7 +267,12 @@ Enjoy it below!
 ### Protein
 * ProtMamba: a homology-aware but alignment-free protein state space model [[paper](https://www.biorxiv.org/content/10.1101/2024.05.24.595730v1)][[code](https://github.com/Bitbol-Lab/ProtMamba-ssm)]  (2024.05.25)
 
+
 <span id="head13"></span>
+### SNN
+* SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
+
+<span id="head14"></span>
 ### Time Series
 * Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling [[paper](https://arxiv.org/abs/2402.10211)] [[code](https://github.com/raunaqbhirangi/hiss)] [[homepage](https://hiss-csp.github.io/)] (2024.02.15)
 * MambaStock: Selective state space model for stock prediction [[paper](https://arxiv.org/abs/2402.18959)] [[code](https://github.com/zshicode/MambaStock)] (2024.02.29)
@@ -284,7 +289,7 @@ Enjoy it below!
 * MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] (2024.05.26)
 * Efficient Time Series Processing for Transformers and State-Space Models through Token Merging [[paper](https://arxiv.org/abs/2405.17951)] (2024.05.28)
 
-<span id="head14"></span>
+<span id="head15"></span>
 
 ###  Speech
 * Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [[paper](https://arxiv.org/abs/2403.07675)] [[code](https://github.com/Audio-WestlakeU/NBSS)] (2024.03.12)
@@ -295,18 +300,18 @@ Enjoy it below!
 * SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [[paper](https://arxiv.org/abs/2405.11831)] (2024.05.20)
 * Mamba in Speech: Towards an Alternative to Self-Attention [[paper](https://arxiv.org/abs/2405.12609)] (2024.05.21)
 
-<span id="head15"></span>
+<span id="head16"></span>
 ### Recommendation 
 * Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06)
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25)
 
-<span id="head16"></span>
+<span id="head17"></span>
 ### Reinforcement Learning
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
 
-<span id="head17"></span>
+<span id="head18"></span>
 ###  Survey
 * State Space Model for New-Generation Network Alternative to Transformers: A Survey [[paper](https://arxiv.org/abs/2404.09516)] [[project](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)] (2024.04.15)
 * Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[paper](https://arxiv.org/abs/2404.16112)] [[project](https://github.com/badripatro/mamba360)] (2024.04.24)
@@ -315,57 +320,57 @@ Enjoy it below!
 * Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 
-<span id="head18"></span>
-##  Tutorials
 <span id="head19"></span>
+##  Tutorials
+<span id="head20"></span>
 ###  Blogs
 * The Annotated S4 [[URL](https://srush.github.io/annotated-s4/#part-1b-addressing-long-range-dependencies-with-hippo)]
 * The Annotated Mamba [[URL](https://srush.github.io/annotated-mamba/hard.html#part-1-cumulative-sums)]
 * A Visual Guide to Mamba and State Space Models [[URL](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)]
 * Mamba No. 5 (A Little Bit Of...) [[URL](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)]
 
-<span id="head20"></span>
+<span id="head21"></span>
 ###  Videos
 * S4: Efficiently Modeling Long Sequences with Structured State Spaces | Albert Gu [[URL](https://www.youtube.com/watch?v=luCBXCErkCs)]
 * Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math [[URL](https://www.youtube.com/watch?v=8Q_tqwpTpVU)]
 * MAMBA from Scratch: Neural Nets Better and Faster than Transformers [[URL](https://www.youtube.com/watch?v=N6Piou4oYx8)]
 
-<span id="head21"></span>
+<span id="head22"></span>
 ###  Books
 * Linear State‐Space Control Systems [[URL](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)]
 * Modeling sequences with structured state spaces [[URL](https://searchworks.stanford.edu/view/14784021)]
 
-<span id="head22"></span>
+<span id="head23"></span>
 ###  Codes
 * The official Mamba Repository is currently only available for Linux. [[URL](https://github.com/state-spaces/mamba)]
 * If you are searching for a runnable implementation not focused on speed,
   * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
 
-<span id="head23"></span>
+<span id="head24"></span>
 ### Other Awesome Mamba List
 * awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
 * Awesome-Mamba: Collect papers about Mamba [[URL](https://github.com/caojiaolong/Awesome-Mamba)]
 * Awesome-Mamba-Papers [[URL](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
 * Awesome-Mamba [[URL](https://github.com/pengzhangzhi/Awesome-Mamba)]
 
-<span id="head24"></span>
+<span id="head25"></span>
 ##  Contributions
 🎉 Thank you for considering contributing to our Mamba_Paper repository! 🚀
 
-<span id="head25"></span>
+<span id="head26"></span>
 ### Contribute in 3 Steps
 1. **Fork the Repo:** Fork this repo to your GitHub account.
 2. **Edit Content:** Contribute by adding new resources or improving existing content in the `README.md` file.
 3. **Create a Pull Request:** Open a pull request (PR) from your branch to the main repository.
 
-<span id="head26"></span>
+<span id="head27"></span>
 ###  Guidelines
 - Follow the existing structure and formatting.
 - Ensure added resources are relevant to State Space Models in Machine Learning.
 - Verify that links work correctly
 
-<span id="head27"></span>
+<span id="head28"></span>
 ##  Acknowledgement
 Thanks the template from [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
 

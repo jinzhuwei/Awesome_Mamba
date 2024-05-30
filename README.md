@@ -3,7 +3,6 @@
 
 Welcome to the world of Mamba! This repository is a curated collection of papers, tutorials, videos, and other valuable resources related to Mamba. Whether you're a beginner or an experienced user, this collection aims to provide a comprehensive reference for all things Mamba. Explore the latest research papers, dive into helpful tutorials, and discover insightful videos to enhance your understanding and proficiency in Mamba. Join us in this open collaboration to foster knowledge sharing and empower the Mamba community. Let's embark on an exciting journey with Mamba!
 
-Feel free to modify and customize this introduction according to your preferences. Good luck with your repository! If you have any other questions, feel free to ask. -by ChatGPT
 
 If you want to see the star count of each paper's code, switch to [this](https://github.com/jinzhuwei/Mamba_Paper/blob/main/README_starred.md).
 

@@ -19,21 +19,22 @@ Enjoy it below!
   - [ Graph](#head10)
   - [Point Cloud](#head11)
   - [ Protein](#head12)
-  - [Time Series](#head13)
-  - [ Speech](#head14)
-  - [Recommendation ](#head15)
-  - [Reinforcement Learning](#head16)
-  - [ Survey](#head17)
-- [ Tutorials](#head18)
-  - [ Blogs](#head19)
-  - [ Videos](#head20)
-  - [ Books](#head21)
-  - [ Codes](#head22)
-  - [Other Awesome Mamba List](#head23)
-- [ Contributions](#head24)
-  - [Contribute in 3 Steps](#head25)
-  - [ Guidelines](#head26)
-- [ Acknowledgement](#head27)
+  - [ SNN](#head13)
+  - [Time Series](#head14)
+  - [ Speech](#head15)
+  - [Recommendation ](#head16)
+  - [Reinforcement Learning](#head17)
+  - [ Survey](#head18)
+- [ Tutorials](#head19)
+  - [ Blogs](#head20)
+  - [ Videos](#head21)
+  - [ Books](#head22)
+  - [ Codes](#head23)
+  - [Other Awesome Mamba List](#head24)
+- [ Contributions](#head25)
+  - [Contribute in 3 Steps](#head26)
+  - [ Guidelines](#head27)
+- [ Acknowledgement](#head28)
 
 <span id="head2"></span>
 ##  Papers
@@ -157,7 +158,6 @@ Enjoy it below!
 ###  Multi-Modal
 * VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba) 
 * Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[paper](https://arxiv.org/abs/2403.14520)] [[code](https://sites.google.com/view/cobravlm)] (2024.03.21)
-* SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
 * Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04) ![Stars](https://img.shields.io/github/stars/ChenHongruixuan/MambaCD) 
 * SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [[paper](https://arxiv.org/abs/2404.08027)] (2024.04.11)
 * MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[paper](https://arxiv.org/abs/2404.08406)] (2024.04.12)
@@ -264,8 +264,12 @@ Enjoy it below!
 * LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling [[paper](https://arxiv.org/abs/2405.17149)] (2024.05.27)
 
 <span id="head12"></span>
-### Point Cloud
-* ProtMamba: a homology-aware but alignment-free protein state space model [[paper](https://www.biorxiv.org/content/10.1101/2024.05.24.595730v1)][[code](https://github.com/Bitbol-Lab/ProtMamba-ssm)]  (2024.05.25) ![Stars](https://img.shields.io/github/stars/Bitbol-Lab/ProtMamba-ssm) 
+### Protein
+* ProtMamba: a homology-aware but alignment-free protein state space model [[paper](https://www.biorxiv.org/content/10.1101/2024.05.24.595730v1)][[code](https://github.com/Bitbol-Lab/ProtMamba-ssm)]  (2024.05.25) ![Stars](https://img.shields.io/github/stars/Bitbol-Lab/ProtMamba-ssm)
+  
+<span id="head12"></span>
+### SNN
+* SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
 
 <span id="head13"></span>
 ### Time Series

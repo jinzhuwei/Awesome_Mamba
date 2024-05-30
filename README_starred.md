@@ -351,7 +351,7 @@ Enjoy it below!
 
 <span id="head24"></span>
 ##  Contributions
-🎉 Thank you for considering contributing to our Awesome Mamba Collection repository! 🚀
+🎉 Thank you for considering contributing to ourMamba_Paper! 🚀
 
 <span id="head25"></span>
 ### Contribute in 3 Steps

@@ -263,7 +263,7 @@ Enjoy it below!
 
 <span id="head12"></span>
 ### Protein
-* - A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks [[paper](https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1.full)][[code](https://github.com/programmablebio/ptm-mamba)]  (2024.02.29)
+* - A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks  [[Paper](https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1)] [[Huggingface](https://huggingface.co/ChatterjeeLab/PTM-Mamba)] [[code](https://github.com/programmablebio/ptm-mamba)] (2024.02.29)
 * ProtMamba: a homology-aware but alignment-free protein state space model [[paper](https://www.biorxiv.org/content/10.1101/2024.05.24.595730v1)][[code](https://github.com/Bitbol-Lab/ProtMamba-ssm)]  (2024.05.25)
 
 

@@ -23,18 +23,19 @@ Enjoy it below!
   - [Time Series](#head14)
   - [ Speech](#head15)
   - [Recommendation ](#head16)
-  - [Reinforcement Learning](#head17)
-  - [ Survey](#head18)
-- [ Tutorials](#head19)
-  - [ Blogs](#head20)
-  - [ Videos](#head21)
-  - [ Books](#head22)
-  - [ Codes](#head23)
-  - [Other Awesome Mamba List](#head24)
-- [ Contributions](#head25)
-  - [Contribute in 3 Steps](#head26)
-  - [ Guidelines](#head27)
-- [ Acknowledgement](#head28)
+  - [3D Reconstruction ](#head17)
+  - [Reinforcement Learning](#head18)
+  - [ Survey](#head19)
+- [ Tutorials](#head20)
+  - [ Blogs](#head21)
+  - [ Videos](#head22)
+  - [ Books](#head23)
+  - [ Codes](#head24)
+  - [Other Awesome Mamba List](#head25)
+- [ Contributions](#head26)
+  - [Contribute in 3 Steps](#head27)
+  - [ Guidelines](#head28)
+- [ Acknowledgement](#head29)
 
 <span id="head2"></span>
 ##  Papers
@@ -306,12 +307,16 @@ Enjoy it below!
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25)
 
 <span id="head17"></span>
+### 3D Reconstruction
+* Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[paper](https://arxiv.org/abs/2403.18795)] [[code](https://github.com/kyegomez/Gamba)] (2024.03.27)
+
+<span id="head18"></span>
 ### Reinforcement Learning
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
 
-<span id="head18"></span>
+<span id="head19"></span>
 ###  Survey
 * State Space Model for New-Generation Network Alternative to Transformers: A Survey [[paper](https://arxiv.org/abs/2404.09516)] [[project](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)] (2024.04.15)
 * Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[paper](https://arxiv.org/abs/2404.16112)] [[project](https://github.com/badripatro/mamba360)] (2024.04.24)
@@ -320,57 +325,57 @@ Enjoy it below!
 * Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 
-<span id="head19"></span>
-##  Tutorials
 <span id="head20"></span>
+##  Tutorials
+<span id="head21"></span>
 ###  Blogs
 * The Annotated S4 [[URL](https://srush.github.io/annotated-s4/#part-1b-addressing-long-range-dependencies-with-hippo)]
 * The Annotated Mamba [[URL](https://srush.github.io/annotated-mamba/hard.html#part-1-cumulative-sums)]
 * A Visual Guide to Mamba and State Space Models [[URL](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)]
 * Mamba No. 5 (A Little Bit Of...) [[URL](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)]
 
-<span id="head21"></span>
+<span id="head22"></span>
 ###  Videos
 * S4: Efficiently Modeling Long Sequences with Structured State Spaces | Albert Gu [[URL](https://www.youtube.com/watch?v=luCBXCErkCs)]
 * Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math [[URL](https://www.youtube.com/watch?v=8Q_tqwpTpVU)]
 * MAMBA from Scratch: Neural Nets Better and Faster than Transformers [[URL](https://www.youtube.com/watch?v=N6Piou4oYx8)]
 
-<span id="head22"></span>
+<span id="head23"></span>
 ###  Books
 * Linear State‐Space Control Systems [[URL](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)]
 * Modeling sequences with structured state spaces [[URL](https://searchworks.stanford.edu/view/14784021)]
 
-<span id="head23"></span>
+<span id="head24"></span>
 ###  Codes
 * The official Mamba Repository is currently only available for Linux. [[URL](https://github.com/state-spaces/mamba)]
 * If you are searching for a runnable implementation not focused on speed,
   * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
 
-<span id="head24"></span>
+<span id="head25"></span>
 ### Other Awesome Mamba List
 * awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
 * Awesome-Mamba: Collect papers about Mamba [[URL](https://github.com/caojiaolong/Awesome-Mamba)]
 * Awesome-Mamba-Papers [[URL](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
 * Awesome-Mamba [[URL](https://github.com/pengzhangzhi/Awesome-Mamba)]
 
-<span id="head25"></span>
+<span id="head26"></span>
 ##  Contributions
 🎉 Thank you for considering contributing to our Mamba_Paper repository! 🚀
 
-<span id="head26"></span>
+<span id="head27"></span>
 ### Contribute in 3 Steps
 1. **Fork the Repo:** Fork this repo to your GitHub account.
 2. **Edit Content:** Contribute by adding new resources or improving existing content in the `README.md` file.
 3. **Create a Pull Request:** Open a pull request (PR) from your branch to the main repository.
 
-<span id="head27"></span>
+<span id="head28"></span>
 ###  Guidelines
 - Follow the existing structure and formatting.
 - Ensure added resources are relevant to State Space Models in Machine Learning.
 - Verify that links work correctly
 
-<span id="head28"></span>
+<span id="head29"></span>
 ##  Acknowledgement
 Thanks the template from [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
 

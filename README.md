@@ -377,5 +377,4 @@ Enjoy it below!
 
 <span id="head29"></span>
 ##  Acknowledgement
-Thanks the template from [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
-
+Thanks the template from [WZMIAOMIAO]([https://github.com/XiudingCai/Awesome-Mamba-Collection](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing))

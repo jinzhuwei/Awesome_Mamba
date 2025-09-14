@@ -377,4 +377,3 @@ Enjoy it below!
 
 <span id="head29"></span>
 ##  Acknowledgement
-Thanks the template from [WZMIAOMIAO]([https://github.com/XiudingCai/Awesome-Mamba-Collection](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing))

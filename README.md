@@ -249,6 +249,7 @@ Enjoy it below!
 * Graph Mamba: Towards Learning on Graphs with State Space Models [[paper](https://arxiv.org/abs/2402.08678)] [[code](https://github.com/graphmamba/gmn)] (2024.02.13)
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2403.12418)] (2024.03.19)
 * HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2405.13915)] (2024.05.22)
+* DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/pdf/2408.06966)] [[code](https://github.com/Clearloveyuan/DyG-Mamba)] (NeurIPS 2025)
 
 <span id="head11"></span>
 ### Point Cloud
